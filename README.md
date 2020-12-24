@@ -14,3 +14,4 @@ Mostly JS/python things
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfegyver&layout=compact)
 ![davidfegyver](https://github-readme-streak-stats.herokuapp.com/?user=davidfegyver)
 
+Dogecoin address: `DT6V76ed2VvECPifdoXXDeNmZvYspoxU4k`
