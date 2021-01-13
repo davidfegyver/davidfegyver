@@ -10,7 +10,6 @@ Mostly JS/python things
 
 ![](https://komarev.com/ghpvc/?username=davidfegyver&color=brightgreen)
 
-![my Github Stats](https://github-readme-stats.vercel.app/api?username=davidfegyver&count_private=true)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfegyver&layout=compact)
 ![davidfegyver](https://github-readme-streak-stats.herokuapp.com/?user=davidfegyver)
 ![davidfegyver](https://github.com/davidfegyver/davidfegyver/blob/master/github-metrics.svg)
