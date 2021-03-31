@@ -6,7 +6,7 @@ Mostly JS/python things
 
 - 🔭 I’m currently working on **5** projects
 - 🌱 I’m currently learning English and German
-- 📫 How to reach me: Want to contact me for whatever reason? PM me on Discord: davidfegyver#8572
+- 📫 How to reach me: Want to contact me for whatever reason? Join my discord server! :D https://discord.gg/bVdcgsNz
 
 ![](https://komarev.com/ghpvc/?username=davidfegyver&color=brightgreen)
 
