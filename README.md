@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Just a 14 year old student from hungary**
+**Just a 15 year old student from hungary**
 
 JS forever!! :D
 
