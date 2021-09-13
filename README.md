@@ -5,7 +5,7 @@
 JS forever!! :D
 
 - 🔭 I’m currently working on **3** projects
-- 🐱‍💻 I also like Hacking :D Ive got 4 bounties, 200$ up to now
+- 🐱‍💻 I also like Hacking :D Ive got 7 bounties, 1000$ up to now
 - 🌱 I’m learning English and German
 - 🌐 https://davidfegyver.github.io
 - 📫 Want to contact me for whatever reason? Join my discord server! :D https://discord.gg/Sa4KDQTA2k
