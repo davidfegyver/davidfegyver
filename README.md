@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-**Just a 15 year old student from hungary**
+**Just a 16 year old student from hungary**
 
 JS forever!! :D
 
 - 🔭 I’m currently working on **3** projects
-- 🐱‍💻 I also like Hacking :D Ive got 12 bounties, 3800$ up to now
+- 🐱‍💻 I also like hacking :D I've reported 100+ vulnerabilities responsibly
 - 🌱 I’m learning English and German
 - 🌐 https://davidfegyver.github.io
 - 📫 Want to contact me for whatever reason? Join my discord server! :D https://discord.gg/Sa4KDQTA2k
