@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-**Just a 17 year old student from hungary**
+**Just a 18 year old student from hungary**
 
-JS forever!! :D
-
-- 🔭 I’m currently working on **3** projects
-- 🐱‍💻 I also like hacking :D I've reported 100+ vulnerabilities responsibly
-- 🌱 I’m learning English and German
-- 🌐 https://davidfegyver.github.io
-- 📫 Want to contact me for whatever reason? Join my discord server! :D https://discord.gg/Sa4KDQTA2k
+- 🌐 https://davidfegyver.hu
+- 📫 root@davidfegyver.hu
 
 ![](https://komarev.com/ghpvc/?username=davidfegyver&color=brightgreen)
 
