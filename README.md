@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Just a 19 year old student from hungary**
+**Just a 20 year old student from hungary**
 
 - 🌐 https://davidfegyver.hu
 - 📫 root@davidfegyver.hu
